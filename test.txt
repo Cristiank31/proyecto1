@@ -7,3 +7,5 @@ y esta empezando a utilizar git
 hoy hablaremos de su historia
 
 Durante el año 2023 se convirtio en un gran desarrollador web gracias a platzi4
+
+ahora tambien se cambiar de branch uwu
