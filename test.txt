@@ -5,3 +5,5 @@ Cristian tiene 27 años y estudia programacion en platzi
 y esta empezando a utilizar git
 
 hoy hablaremos de su historia
+
+Durante el año 2023 se convirtio en un gran desarrollador web gracias a platzi4
